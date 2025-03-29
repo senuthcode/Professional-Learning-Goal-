@@ -1,0 +1,2 @@
+install dependencies
+    pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn beautifulsoup4 selenium jupyter
