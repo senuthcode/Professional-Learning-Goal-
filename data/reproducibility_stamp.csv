@@ -1,0 +1,89 @@
+DOI,Title,URL
+10.1016/j.cag.2016.05.009,The 2D shape structure dataset: A user annotated open access database,https://doi.org/10.1016/j.cag.2016.05.009
+10.1016/j.cag.2016.05.015,Extrinsically smooth direction fields,https://doi.org/10.1016/j.cag.2016.05.015
+10.1016/j.cag.2016.05.017,PinMesh—Fast and exact 3D point location queries using a uniform grid,https://doi.org/10.1016/j.cag.2016.05.017
+10.1016/j.cag.2016.05.020,Computing a discrete Morse gradient from a watershed decomposition,https://doi.org/10.1016/j.cag.2016.05.020
+10.1016/j.cag.2017.05.001,A survey of digital stippling,https://doi.org/10.1016/j.cag.2017.05.001
+10.1016/j.cag.2017.05.006,Hole detection in a planar point set: An empty disk approach,https://doi.org/10.1016/j.cag.2017.05.006
+10.1016/j.cag.2018.05.014,Constraint-based point set denoising using normal voting tensor and restricted quadratic error metrics,https://doi.org/10.1016/j.cag.2018.05.014
+10.1016/j.cag.2018.05.015,Peeling the longest: A simple generalized curve reconstruction algorithm,https://doi.org/10.1016/j.cag.2018.05.015
+10.1016/j.cag.2018.05.016,3D synthesis of man-made objects based on fine-grained parts,https://doi.org/10.1016/j.cag.2018.05.016
+10.1016/j.cag.2019.05.024,Combining voxel and normal predictions for multi-view 3D sketching,https://doi.org/10.1016/j.cag.2019.05.024
+10.1016/j.cag.2020.05.024,Virtual reality framework for editing and exploring medial axis representations of nanometric scale neural structures,https://doi.org/10.1016/j.cag.2020.05.024
+10.1016/j.cag.2020.05.028,On the perceptual influence of shape overlap on data-comparison using scatterplots,https://doi.org/10.1016/j.cag.2020.05.028
+10.1016/j.cag.2020.05.029,Vectorization of persistence barcode with applications in pattern classification of porous structures,https://doi.org/10.1016/j.cag.2020.05.029
+10.1016/j.cag.2020.06.001,Attention-based relation and context modeling for point cloud semantic segmentation,https://doi.org/10.1016/j.cag.2020.06.001
+10.1016/j.cag.2020.07.007,Radial intersection count image: A clutter resistant 3D shape descriptor,https://doi.org/10.1016/j.cag.2020.07.007
+10.1016/j.cag.2020.08.001,Interactive visual exploration of metabolite ratios in MR spectroscopy studies,https://doi.org/10.1016/j.cag.2020.08.001
+10.1016/j.cag.2020.08.008,SHREC’20: Shape correspondence with non-isometric deformations,https://doi.org/10.1016/j.cag.2020.08.008
+10.1016/j.cag.2020.09.001,An indexing scheme and descriptor for 3D object retrieval based on local shape querying,https://doi.org/10.1016/j.cag.2020.09.001
+10.1016/j.cag.2020.09.007,Deep radiance caching: Convolutional autoencoders deeper in ray tracing,https://doi.org/10.1016/j.cag.2020.09.007
+10.1016/j.cag.2021.01.014,"A training free technique for 3D object recognition using the concept of vibration, energy and frequency",https://doi.org/10.1016/j.cag.2021.01.014
+10.1016/j.cag.2021.02.003,Multi-resolution terrain rendering using summed-area tables,https://doi.org/10.1016/j.cag.2021.02.003
+10.1016/j.cag.2021.06.010,SHREC 2021: Retrieval and classification of protein surfaces equipped with physical and chemical properties,https://doi.org/10.1016/j.cag.2021.06.010
+10.1016/j.cag.2021.06.015,Feature interpolation convolution for point cloud analysis,https://doi.org/10.1016/j.cag.2021.06.015
+10.1016/j.cag.2021.07.001,‘CADSketchNet’ - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks,https://doi.org/10.1016/j.cag.2021.07.001
+10.1016/j.cag.2021.07.010,SHREC 2021: Retrieval of cultural heritage objects,https://doi.org/10.1016/j.cag.2021.07.010
+10.1016/j.cag.2021.07.018,Partial 3D object retrieval using local binary QUICCI descriptors and dissimilarity tree indexing,https://doi.org/10.1016/j.cag.2021.07.018
+10.1016/j.cag.2021.07.022,Model for predicting perception of facial action unit activation using virtual humans,https://doi.org/10.1016/j.cag.2021.07.022
+10.1016/j.cag.2021.09.005,SHREC’21: Quantifying shape complexity,https://doi.org/10.1016/j.cag.2021.09.005
+10.1016/j.cag.2021.09.013,Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD objects,https://doi.org/10.1016/j.cag.2021.09.013
+10.1016/j.cag.2021.10.017,Learning modified indicator functions for surface reconstruction,https://doi.org/10.1016/j.cag.2021.10.017
+10.1016/j.cag.2021.10.021,Enhanced narrow band surface reconstruction with anisotropic kernel,https://doi.org/10.1016/j.cag.2021.10.021
+10.1016/j.cag.2021.11.005,Real-time skeletonization for sketch-based modeling,https://doi.org/10.1016/j.cag.2021.11.005
+10.1016/j.cag.2022.05.009,Elliptic Gabriel Taubin smoothing of point clouds,https://doi.org/10.1016/j.cag.2022.05.009
+10.1016/j.cag.2022.06.001,CloudWalker: Random walks for 3D point cloud shape analysis,https://doi.org/10.1016/j.cag.2022.06.001
+10.1016/j.cag.2022.06.007,Image-based virtual try-on system with clothing extraction module that adapts to any posture,https://doi.org/10.1016/j.cag.2022.06.007
+10.1016/j.cag.2022.06.008,Query-replace operations for topologically controlled 3D mesh editing,https://doi.org/10.1016/j.cag.2022.06.008
+10.1016/j.cag.2022.07.004,SHREC 2022: Fitting and recognition of simple geometric primitives on point clouds,https://doi.org/10.1016/j.cag.2022.07.004
+10.1016/j.cag.2022.07.005,SHREC 2022: Protein–ligand binding site recognition,https://doi.org/10.1016/j.cag.2022.07.005
+10.1016/j.cag.2022.07.011,Representation learning of 3D meshes using an Autoencoder in the spectral domain,https://doi.org/10.1016/j.cag.2022.07.011
+10.1016/j.cag.2022.07.015,SHREC 2022 track on online detection of heterogeneous gestures,https://doi.org/10.1016/j.cag.2022.07.015
+10.1016/j.cag.2022.07.018,SHREC 2022: Pothole and crack detection in the road pavement using images and RGB-D data,https://doi.org/10.1016/j.cag.2022.07.018
+10.1016/j.cag.2022.07.020,SHREC’22 track: Open-Set 3D Object Retrieval,https://doi.org/10.1016/j.cag.2022.07.020
+10.1016/j.cag.2022.08.003,Underwater enhancement based on a self-learning strategy and attention mechanism for high-intensity regions,https://doi.org/10.1016/j.cag.2022.08.003
+10.1016/j.cag.2022.09.003,Exploring differential geometry in neural implicits,https://doi.org/10.1016/j.cag.2022.09.003
+10.1016/j.cag.2022.10.008,GPU accelerated scalable parallel coordinates plots,https://doi.org/10.1016/j.cag.2022.10.008
+10.1016/j.cag.2023.04.007,Image super-resolution with multi-scale fractal residual attention network,https://doi.org/10.1016/j.cag.2023.04.007
+10.1016/j.cag.2023.05.006,Variable-hyperparameter visual transformer for efficient image inpainting,https://doi.org/10.1016/j.cag.2023.05.006
+10.1016/j.cag.2023.05.025,Inpainting holes in folded fabric meshes,https://doi.org/10.1016/j.cag.2023.05.025
+10.1016/j.cag.2023.06.012,Neural skeleton: Implicit neural representation away from the surface,https://doi.org/10.1016/j.cag.2023.06.012
+10.1016/j.cag.2023.06.013,Learning neural implicit representations with surface signal parameterizations,https://doi.org/10.1016/j.cag.2023.06.013
+10.1016/j.cag.2023.06.014,Meshless power diagrams,https://doi.org/10.1016/j.cag.2023.06.014
+10.1016/j.cag.2023.06.015,Crossing-free paths in the square grid,https://doi.org/10.1016/j.cag.2023.06.015
+10.1016/j.cag.2023.06.017,A modular approach for creation of any bi-axial woven structure with congruent tiles,https://doi.org/10.1016/j.cag.2023.06.017
+10.1016/j.cag.2023.06.023,GEO-Nav: A geometric dataset of voltage-gated sodium channels,https://doi.org/10.1016/j.cag.2023.06.023
+10.1016/j.cag.2023.06.031,Analyzing part functionality via multi-modal latent space embedding and interweaving,https://doi.org/10.1016/j.cag.2023.06.031
+10.1016/j.cag.2023.07.001,SpecTrHuMS: Spectral transformer for human mesh sequence learning,https://doi.org/10.1016/j.cag.2023.07.001
+10.1016/j.cag.2023.07.021,Optimizing retroreflective marker set for motion capturing props,https://doi.org/10.1016/j.cag.2023.07.021
+10.1016/j.cag.2023.07.028,MWFormer: Mesh Understanding with Window-based Transformer,https://doi.org/10.1016/j.cag.2023.07.028
+10.1016/j.cag.2023.07.034,Real-time self-supervised tone curve estimation for HDR image,https://doi.org/10.1016/j.cag.2023.07.034
+10.1016/j.cag.2023.07.035,SketchANIMAR: Sketch-based 3D animal fine-grained retrieval,https://doi.org/10.1016/j.cag.2023.07.035
+10.1016/j.cag.2023.08.008,Neural 3D face rendering conditioned on 2D appearance via GAN disentanglement method,https://doi.org/10.1016/j.cag.2023.08.008
+10.1016/j.cag.2023.08.009,TSNeRF: Text-driven stylized neural radiance fields via semantic contrastive learning,https://doi.org/10.1016/j.cag.2023.08.009
+10.1016/j.cag.2023.08.012,HoughLaneNet: Lane detection with deep hough transform and dynamic convolution,https://doi.org/10.1016/j.cag.2023.08.012
+10.1016/j.cag.2023.08.014,AdaptMVSNet: Efficient Multi-View Stereo with adaptive convolution and attention fusion,https://doi.org/10.1016/j.cag.2023.08.014
+10.1016/j.cag.2024.01.001,STSR-INR: Spatiotemporal super-resolution for multivariate time-varying volumetric data via implicit neural representation,https://doi.org/10.1016/j.cag.2024.01.001
+10.1016/j.cag.2024.01.013,Personality perception in human videos altered by motion transfer networks,https://doi.org/10.1016/j.cag.2024.01.013
+10.1016/j.cag.2024.103891,A single 3D shape wavelet-based generative model,https://doi.org/10.1016/j.cag.2024.103891
+10.1016/j.cag.2024.103901,Improving cognitive-state analysis from eye gaze with synthetic eye-movement data,https://doi.org/10.1016/j.cag.2024.103901
+10.1016/j.cag.2024.103910,A vertex-centric representation for adaptive diamond-kite meshes,https://doi.org/10.1016/j.cag.2024.103910
+10.1016/j.cag.2024.103915,Terrain point cloud inpainting via signal decomposition,https://doi.org/10.1016/j.cag.2024.103915
+10.1016/j.cag.2024.103943,Editing mesh sequences with varying connectivity,https://doi.org/10.1016/j.cag.2024.103943
+10.1016/j.cag.2024.103945,Path guiding for wavefront path tracing: A memory efficient approach for GPU path tracers,https://doi.org/10.1016/j.cag.2024.103945
+10.1016/j.cag.2024.103951,3D geometric kernel computation in polygon mesh structures,https://doi.org/10.1016/j.cag.2024.103951
+10.1016/j.cag.2024.103979,Volumetric nonwoven structures: An algebraic framework for systematic design of infinite polyhedral frames using nonwoven fabric patterns,https://doi.org/10.1016/j.cag.2024.103979
+10.1016/j.cag.2024.103997,Neural inpainting of folded fabrics with interactive editing,https://doi.org/10.1016/j.cag.2024.103997
+10.1016/j.cag.2024.103998,Computational design of custom-fit PAP masks,https://doi.org/10.1016/j.cag.2024.103998
+10.1016/j.cag.2024.104001,"Quadratic-attraction subdivision with contraction-ratio <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline"" id=""d1e1533"" altimg=""si16.svg""><mml:mrow><mml:mi>λ</mml:mi><mml:mo linebreak=""goodbreak"" linebreakstyle=""after"">=</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:mfrac></mml:mrow></mml:math>",https://doi.org/10.1016/j.cag.2024.104001
+10.1016/j.cag.2024.104020,Binary segmentation of relief patterns on point clouds,https://doi.org/10.1016/j.cag.2024.104020
+10.1016/j.cag.2024.104048,OpenECAD: An efficient visual language model for editable 3D-CAD design,https://doi.org/10.1016/j.cag.2024.104048
+10.1016/j.cag.2024.104050,Graph Transformer for 3D point clouds classification and semantic segmentation,https://doi.org/10.1016/j.cag.2024.104050
+10.1016/j.cag.2024.104052,ShapeBench: A new approach to benchmarking local 3D shape descriptors,https://doi.org/10.1016/j.cag.2024.104052
+10.1016/j.cag.2024.104058,SingVisio: Visual analytics of diffusion model for singing voice conversion,https://doi.org/10.1016/j.cag.2024.104058
+10.1016/j.cag.2024.104064,TPVis: A visual analytics system for exploring test case prioritization methods,https://doi.org/10.1016/j.cag.2024.104064
+10.1016/j.cag.2024.104065,Empowering sign language communication: Integrating sentiment and semantics for facial expression synthesis,https://doi.org/10.1016/j.cag.2024.104065
+10.1016/j.cag.2024.104068,A semantic edge-aware parameter efficient image filtering technique,https://doi.org/10.1016/j.cag.2024.104068
+10.1016/j.cag.2024.104069,Voice user interfaces for effortless navigation in medical virtual reality environments,https://doi.org/10.1016/j.cag.2024.104069
+10.1016/j.cag.2024.104118,Enhancing semantic mapping in text-to-image diffusion via Gather-and-Bind,https://doi.org/10.1016/j.cag.2024.104118
+10.1016/j.cag.2024.104142,Semi-supervised single-view 3D reconstruction via multi shape prior fusion strategy and self-attention,https://doi.org/10.1016/j.cag.2024.104142
